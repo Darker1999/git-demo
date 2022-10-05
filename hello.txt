@@ -3,4 +3,4 @@ hello Git!  hot-fix
 hello Git!
 hello Git!
 hello Git!  
-Github 
+Github v2 (pull)
