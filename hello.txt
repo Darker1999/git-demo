@@ -1,6 +1,5 @@
 hello Git!  v2
+hello Git!  hot-fix
 hello Git!
 hello Git!
-hello Git!
-hello Git!
-hello Git!
+hello Git!  
